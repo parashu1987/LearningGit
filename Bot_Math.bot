@@ -1,0 +1,15 @@
+{
+    "name": "Bot_Math",
+    "description": "",
+    "secretKey": "",
+    "services": [
+        {
+            "appId": "",
+            "id": "fbd8c6d0-ad10-11e8-9cad-f3e42efa4bc8",
+            "type": "endpoint",
+            "appPassword": "",
+            "endpoint": "http://localhost:3979/api/messages",
+            "name": "http://localhost:3979/api/messages"
+        }
+    ]
+}
